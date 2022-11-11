@@ -1,0 +1,29 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmartihaynes/do-something.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "joaquin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmartihaynes/do-something/issues"
+  },
+  "homepage": "https://github.com/ericmartihaynes/do-something#readme",
+  "dependencies": {
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.0"
+  }
+}
